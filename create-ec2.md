@@ -22,4 +22,8 @@
 ![Alt text](assets/create-ec2/create-ec2-7.png?raw=true)
 7. กด Launch เพื่อสร้าง instances
 
-
+## Other Docment
+- [Create EC2 instance](./create-ec2.md)
+- [Create ECR](./create-ecr.md)
+- [Build Docker images](./build-docker.md)
+- [Push images to registry (ECR)](./push-image-to-registry.md)
